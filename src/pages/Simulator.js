@@ -8,6 +8,7 @@ const position = [51.505, -0.09]
 
 return (
         <div>
+          
         <div id="simulator">
           <Typography variant="h4" component="h2" gutterBottom>
             Atomic bomb effects simulator
