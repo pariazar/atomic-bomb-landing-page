@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/atomic-bomb-landing-page/static/css/main.6400f77f.css",
+    "main.js": "/atomic-bomb-landing-page/static/js/main.f417f5de.js",
+    "index.html": "/atomic-bomb-landing-page/index.html",
+    "main.6400f77f.css.map": "/atomic-bomb-landing-page/static/css/main.6400f77f.css.map",
+    "main.f417f5de.js.map": "/atomic-bomb-landing-page/static/js/main.f417f5de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6400f77f.css",
+    "static/js/main.f417f5de.js"
+  ]
+}
